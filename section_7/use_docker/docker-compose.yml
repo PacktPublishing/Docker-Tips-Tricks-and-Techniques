@@ -1,0 +1,13 @@
+# Filename: docker-compose.yml wordpress:
+wordpress:
+  image: wordpress:4.2.2
+  links: 
+    - db:mysql
+  ports: 
+    - 8080:80
+  
+db:
+  image: mariadb
+  environment:
+    MYSQL_ROOT_PASSWORD: example
+
