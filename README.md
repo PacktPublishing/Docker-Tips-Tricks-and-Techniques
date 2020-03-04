@@ -1,5 +1,5 @@
 # Docker-Tips-Tricks-and-Techniques
-This is the code repository for [Docker: Tips, Tricks, and Techniques [Video]]Website), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Docker: Tips, Tricks, and Techniques [Video]](https://www.packtpub.com/cloud-networking/docker-tips-tricks-and-techniques-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 
 
